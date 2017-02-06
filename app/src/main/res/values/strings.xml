@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">IntentDemo_Lec6</string>
+    <string name="bnt1_ma1_label">Submit</string>
+
+    <string-array name="my_itm_lst">
+        <item>CSIT451</item>
+        <item>CSIT452</item>
+        <item>CSIT453</item>
+        <item>CSIT454</item>
+        <item>CSIT455</item>
+        <item>CSIT456</item>
+        <item>CSIT457</item>
+
+    </string-array>
+
+    <color name="gray">#808080</color>
+</resources>
